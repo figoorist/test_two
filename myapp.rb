@@ -1,4 +1,3 @@
-# myapp.rb
 require 'sinatra'
 
 notices = Array.new
